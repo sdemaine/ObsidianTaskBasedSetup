@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "dcb3abbffd818435",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b038d91b7594a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899fd3ae85857785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Dashboard - Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard - Template"
+            }
+          },
+          {
+            "id": "9aae745eb1935683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Achievements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Achievements"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8431e6b4bcc56dac",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d84d733a5e4bbcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b41772eb167406",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de274ba2fe5c64ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b419a38a1bb899c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "8f5eff2fd94524fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc3708ebb776ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46309145ceb00978",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "eb561f876e2e773c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/MetroNorth/Todo List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Todo List"
+            }
+          },
+          {
+            "id": "079749eb698607d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/MetroNorth/Todo List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Todo List"
+            }
+          },
+          {
+            "id": "bde96fc2f3c4ebe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a8f370ba9a14151",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journals/2025/Week 9 (Feb 24 - Mar 2)/2025-02-24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "9aae745eb1935683",
+  "lastOpenFiles": [
+    "Achievements.pdf",
+    "Achievements.md",
+    "Untitled.md",
+    "Templates/Dashboard - Template.md",
+    "Templates/Achievements.md",
+    "Templates/2. Daily Template - Using Task Tags.md",
+    "2025 - Journal Entries/Week 1 (Jan 01 - Jan 05)/2025-01-01.md",
+    "2025 - Journal Entries/Week 1 (Jan 01 - Jan 05)/2025-01-02.md",
+    "2025 - Journal Entries/Week 37 (Sep 08 - Sep 14)/2025-09-12.md",
+    "2025-09-10.md",
+    "2025 - Journal Entries/Week 37 (Sep 08 - Sep 14)/2025-09-10.md",
+    "2025 - Journal Entries/Week 37 (Sep 08 - Sep 14)/2025-09-11.md",
+    "Journals/2024/Week 1 (Jan 1 - Jan 7)/2024-01-07.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-03-02.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-03-01.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-02-28.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-02-27.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-02-26.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-02-25.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)/2025-02-24.md",
+    "2025 - Journal Entries/Week 9 (Feb 24 - Mar 02)",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)/2025-02-23.md",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)/2025-02-22.md",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)/2025-02-21.md",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)/2025-02-20.md",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)/2025-02-19.md",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)/2025-02-18.md",
+    "2025 - Journal Entries/Week 8 (Feb 17 - Feb 23)",
+    "2025 - Journal Entries/Week 7 (Feb 10 - Feb 16)",
+    "2025 - Journal Entries/Week 6 (Feb 03 - Feb 09)",
+    "2025 - Journal Entries/Week 53 (Dec 29 - Dec 31)",
+    "2025 - Journal Entries/Week 52 (Dec 22 - Dec 28)",
+    "2025 - Journal Entries/Week 51 (Dec 15 - Dec 21)",
+    "2025 - Journal Entries/Week 50 (Dec 08 - Dec 14)",
+    "2025 - Journal Entries/Week 5 (Jan 27 - Feb 02)",
+    "Uploads/Pasted image 20250327150507.png",
+    "Uploads/Pasted image 20250327153231.png",
+    "FleetControl/Transaction Processing - Brainstorm.canvas",
+    "_Inbox/Untitled 1.canvas",
+    "_Inbox/Untitled.canvas",
+    "_Inbox/Pasted image 20250106134515.png",
+    "_Inbox/Pasted image 20241126083708.png",
+    "_Inbox/Pasted image 20241126083703.png",
+    "_Inbox/output.svg",
+    "Pasted image 20250106134515.png",
+    "Pasted image 20241126083708.png",
+    "Pasted image 20241126083703.png",
+    "output.svg"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Projects/Fenergo/CMS ETL Job/Run All ETLs": {
+      "icon": "lucide-rocket",
+      "unsynced": [
+        "089268dc97502a87",
+        "78e592bd77319de5",
+        "b1ad089295eaa9c6"
+      ]
+    },
+    "Projects/Fenergo/CMS ETL Job/sprFramework_RunLoadManager": {
+      "icon": "lucide-hammer",
+      "unsynced": [
+        "089268dc97502a87",
+        "78e592bd77319de5",
+        "b1ad089295eaa9c6"
+      ]
+    },
+    "Projects/MetroNorth": {
+      "color": "green",
+      "unsynced": [
+        "089268dc97502a87",
+        "78e592bd77319de5",
+        "b1ad089295eaa9c6"
+      ]
+    },
+    "Projects/Tank Monitoring": {
+      "icon": "lucide-fuel",
+      "color": "cyan",
+      "unsynced": [
+        "089268dc97502a87",
+        "78e592bd77319de5",
+        "b1ad089295eaa9c6"
+      ]
+    },
+    "Templates": {
+      "icon": "lucide-layout-template",
+      "unsynced": [
+        "089268dc97502a87",
+        "78e592bd77319de5",
+        "b1ad089295eaa9c6"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}
